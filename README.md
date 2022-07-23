@@ -1,10 +1,3 @@
-hi, this is colon from the future.
-
-what the FUCK was wrong with me back then???? seriously this is some of the worst code i've ever seen
-
-welp, here's the readme. but you've been warned,,,
-
-
 # GDBrowser
 
   
@@ -14,19 +7,6 @@ Uh... so I've never actually used GitHub before this. But I'll try to explain ev
   
 
 Sorry for my messy code. It's why I was skeptical about making this open source, but you know what, the code runs fine in the end.
-
-  
-  ## How do I run this?
-If you're just here to use GDBrowser locally because the site is down or blocked or restricted or god knows what, this is the only part you really need to read
-
-
-To run GDBrowser locally:
-1) Install [node.js](https://nodejs.org/en/download/) if you don't already have it
-2) Clone/download this repository  
-3) Open cmd/powershell/terminal in the main folder (with index.js)
-4) Type `npm i` to flood your hard drive with code that's 99% useless
-5) Type `node index` to run the web server
-6) GDBrowser is now running locally at http://localhost:2000
 
 
 If you want to disable rate limits, ip forwarding, etc you can do so by modifying `settings.js`. Doing this is probably a good idea if you feel like obliterating Rob's servers for some reason. (please don't)
@@ -84,7 +64,7 @@ Most folders contain exactly what you'd expect, but here's some in-depth info in
 
 ## API
 
-This is where all the backend stuff happens! Yipee!
+This is where all the backend stuff happens!
 
   
 
@@ -96,10 +76,6 @@ They're all fairly similar. Fetch something, parse the response, and serve it in
 ## Assets
 
 Assets! Assets everywhere!
-
-  
-
-All the GD stuff was ripped straight from the GD spritesheets via [Absolute's texture splitter hack](https://youtu.be/pYQgIyNhow8). If you want a nice categorized version, [I've done all the dirty work for you.](https://www.mediafire.com/file/4d99bw1zhwcl507/textures.zip/file)
 
   
 
