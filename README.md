@@ -11,17 +11,7 @@ Sorry for my messy code. It's why I was skeptical about making this open source,
 
 If you want to disable rate limits, ip forwarding, etc you can do so by modifying `settings.js`. Doing this is probably a good idea if you feel like obliterating Rob's servers for some reason. (please don't)
 
-
-## Using this for a GDPS?
-
-~~I mean, sure. Why not.~~
-Hold up, wait a minute... private servers are an official feature now!
-
-
-If you would like to add your GDPS to GDBrowser, [fill out this quick form](https://forms.gle/kncuRqyKykQX42QD7) and I'll be happy to add it (provided the server is relatively large and active)
   
-  
-If you 100% insist on adding a private server to your own magical little fork, you can do so by adding it to **servers.json**. Simply add a new object to the array with the following information:
 
 | identifier       | description                  |
 |:----------------:|:-----------------------------:|
