@@ -1,15 +1,13 @@
-# GDBrowser
+# MeSite
 
   
 
-Uh... so I've never actually used GitHub before this. But I'll try to explain everything going on here.
-
-  
-
-Sorry for my messy code. It's why I was skeptical about making this open source, but you know what, the code runs fine in the end.
+Haha game site gd brrrrrrrrrrr go haha funny
 
 
-If you want to disable rate limits, ip forwarding, etc you can do so by modifying `settings.js`. Doing this is probably a good idea if you feel like obliterating Rob's servers for some reason. (please don't)
+
+
+If you want to disable rate limits, ip forwarding, etc you can do so by modifying `settings.js`. Doing this is probably a good idea if you feel like obliterating Rob's servers for some reason. (pls don't)
 
   
 
